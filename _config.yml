@@ -1,6 +1,7 @@
 title: Steffen Strohm
 description: Work and Activities.
 show_downloads: false
+show_download_button: false
 google_analytics:
 theme: jekyll-theme-leap-day
 author: Steffen Strohm
